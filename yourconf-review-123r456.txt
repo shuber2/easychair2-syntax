@@ -1,0 +1,81 @@
+==+== Your Conference Review Form
+==-== DO NOT CHANGE LINES THAT START WITH "==+==" OR "==*==".
+
+==+== =====================================================================
+==+== Begin Review #123
+==+== Reviewer: Thomas Anderson <neo@matrix.org>
+
+==+== Paper #123
+==-== Title: TopoImages: Combining Local Topology Encoding and Deep
+==-==        Learning for Medical Image Classification
+
+==+== Review Readiness
+==-== Enter "Ready" if the review is ready for others to see:
+
+Ready
+
+==*== Overall merit
+==-== Choices:
+==-==    1. Reject
+==-==    2. Weak reject
+==-==    3. Weak accept
+==-==    4. Accept
+==-==    5. Strong accept
+==-== Enter the number of your choice:
+
+4
+
+==*== Reviewer expertise
+==-== Choices:
+==-==    1. No familiarity
+==-==    2. Some familiarity
+==-==    3. Knowledgeable
+==-==    4. Expert
+==-== Enter the number of your choice:
+
+3
+
+==*== Paper summary
+==-== Markdown styling and LaTeX math supported.
+
+Est consectetuer faucibus. Donec tempor lobortis turpis. Sed tellus velit,
+ullamcorper ac, fringilla vitae, sodales nec, purus. Morbi aliquet risus in
+mi.
+
+Curabitur cursus volutpat neque. Proin posuere mauris ut ipsum. Praesent
+scelerisque tortor a justo. Quisque consequat libero eu erat. In eros augue,
+sollicitudin sed, tempus tincidunt, pulvinar a, lectus. Vestibulum ante ipsum
+primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas
+interdum purus id risus. Ut ultricies cursus dui. In nec enim at odio aliquam
+iaculis. Fusce nisl. Pellentesque sagittis. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aenean placerat tellus. In semper sagittis enim.
+Aliquam risus neque.
+
+==*== Comments for authors
+==-== Markdown styling and LaTeX math supported.
+
+Odio sollicitudin quam. Nullam non mauris. Phasellus lacinia, velit sit amet
+bibendum euismod, leo diam interdum ligula, eu scelerisque sem purus in
+tellus.
+
+\[  E = m \cdot c^2 \]
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In sit amet nunc id
+quam porta varius. Ut aliquet facilisis turpis. Etiam pellentesque quam et
+erat. Praesent suscipit justo.
+
+Cras nec metus pulvinar sem tempor hendrerit. Class aptent taciti sociosqu ad
+litora torquent per conubia nostra, per inceptos himenaeos. Nullam in nulla.
+Mauris elementum. Curabitur tempor, quam ac rutrum placerat, nunc augue
+ullamcorper est, vitae molestie neque nunc a nunc. Integer justo dolor,
+consequat id, rutrum auctor, ullamcorper sed, orci. In.
+
+==*== Comments for PC
+==-== (hidden from authors)
+==-== Markdown styling and LaTeX math supported.
+
+I am compromised by lorem ipsum. Do not consider my review.
+
+==+== Scratchpad (for unsaved private notes)
+
+==+== End Review
